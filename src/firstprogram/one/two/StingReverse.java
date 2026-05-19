@@ -41,7 +41,7 @@ public class StingReverse {
                 System.out.print(revString[i]);
         }
          System.out.println("");
-        System.out.println("Hello");
+        System.out.println("Hello im Mody");
     }
         
          
