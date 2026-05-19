@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author pate1823
+ * @author Mohammed Mohamed
  */
 public class StingReverse {
 
