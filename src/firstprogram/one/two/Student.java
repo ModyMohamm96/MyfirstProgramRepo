@@ -9,8 +9,9 @@ package firstprogram.one.two;
  * @author Mohammed Mohammed
  */
 public class Student {
-    int id;
-    String name;
+    private int id;
+    private String name;
+    int numOfCourses;
 
     public Student(int id, String name) {
         this.id = id;
