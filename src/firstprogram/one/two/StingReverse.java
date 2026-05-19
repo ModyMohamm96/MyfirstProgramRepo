@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Mohammed Mohamed
+ * @author Mohammed Mohamed, 2026
  */
 public class StingReverse {
 
@@ -42,6 +42,8 @@ public class StingReverse {
         }
          System.out.println("");
     }
+         System.out.println("");
+         System.out.println("Hello");
     
     
 }
